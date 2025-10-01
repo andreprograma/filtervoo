@@ -24,6 +24,9 @@ Insirir um gif ou um link de alguma demonstração.
 
 - github | [@filtervoo](https://github.com/andreprograma/filtervoo)
 - André Gustavo | [@andreprograma](https://github.com/andreprograma)
+- Samyra | [@](link)
+- Bruno | [@](link)
+- Herbert | [@](link)
 
 
 ## Referência
